@@ -55,4 +55,5 @@ Conecte seu celular (com modo desenvolvedor ativado) ou inicie um emulador.
 No terminal, na raiz do projeto, instale as dependências e execute o app com os comandos:
 
 flutter pub get
+
 flutter run
